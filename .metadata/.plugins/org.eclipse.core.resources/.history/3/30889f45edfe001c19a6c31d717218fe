@@ -1,0 +1,8 @@
+<html>
+<head>
+	head
+</head>
+<body>
+	hi ${obj.a}
+</body> 
+</html>
